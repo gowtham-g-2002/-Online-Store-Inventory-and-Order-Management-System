@@ -113,6 +113,7 @@ ORDER BY p.stock_quantity ASC;
 ## 🙋 Author
 
 **Gowtham G**  
-📫 [https://github.com/gowtham-g-2002]
+📧 [ggowthambtechit@gmail.com]
+🔗 [LinkedIn](https://www.linkedin.com/in/gowtham-gnanasekar/)
 
 ---
